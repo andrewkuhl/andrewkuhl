@@ -1,7 +1,7 @@
 ### Hi im Andrew Kuhl ✨
 Pronouns: He/Him<br />
 Im a junior at Arizona State University studying Computer Science<br />
-Currently looking for the opportunity to intern at a company to aquire some history in the field that I want to take part in some day!<br />
+Currently looking for the opportunity to intern at a company to acquire some history in the field that I want to take part in some day!<br />
 
 <!--
 **andrewkuhl/andrewkuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
