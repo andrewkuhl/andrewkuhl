@@ -5,6 +5,7 @@ Currently looking for the opportunity to intern at a company to acquire some kno
 ### I’m currently working on... 
 * Heap Data Structure generation and manipulation
 * Jeopardy style CTF (information security competition)
+* Analyzing run times from sorting algorithms to perfom a test of hypothesis on the population of data.
 <!--
 **andrewkuhl/andrewkuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
