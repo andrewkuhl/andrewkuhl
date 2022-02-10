@@ -1,12 +1,5 @@
-# Hi im Andrew Kuhl ✨
-Pronouns: He/Him<br />
-Im a junior at Arizona State University studying Computer Science<br />
-Currently looking for the opportunity to intern at a company to acquire some knowledge and history in the field that I want to take part in some day!<br />
-### I’m currently working on... 
-* Heap Data Structure generation and manipulation
-* Jeopardy style CTF (information security competition)
-* Analyzing run times from sorting algorithms to perfom a test of hypothesis on the population of data.
-<!--
+# Hi im Andrew Kuhl
+Senior at Arizona State University studying Computer Science<br />
 **andrewkuhl/andrewkuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
