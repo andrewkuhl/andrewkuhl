@@ -1,4 +1,4 @@
 # Hi im Andrew Kuhl
-Senior at Arizona State University studying Computer Science<br />
+Flight Software Engineer at Moog Broad Reach<br />
 <br>
 https://andrewkuhl.github.io/
